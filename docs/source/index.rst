@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+CEO Thúy Kiều - Hành Trình Xây Dựng Thương Hiệu Xo88 Thành Công Và Bền Vững
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Thúy Kiều <https://xo88.wtf/tac-gia/ceo-thuy-kieu/>`_ - người sáng lập và dẫn dắt thương hiệu đình đám Xo88, là một hình mẫu về sự nỗ lực và khát khao vươn lên. Bắt đầu từ những vị trí nhỏ nhất trong ngành công nghệ giải trí trực tuyến, Thúy Kiều đã vượt qua nhiều thách thức để xây dựng Xo88 trở thành một trong những nền tảng lớn mạnh trong lĩnh vực này. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự dẫn dắt của Thúy Kiều, Xo88 đã phát triển mạnh mẽ, không chỉ đổi mới sản phẩm mà còn cải thiện trải nghiệm người dùng, thu hút lượng lớn người chơi. Thúy Kiều còn là người truyền cảm hứng cho nhiều người trẻ với sự kiên trì và bản lĩnh, chứng minh rằng sự nỗ lực không ngừng có thể đưa con người đến đỉnh cao sự nghiệp.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 28 Đ. Huỳnh Văn Gấm, Tây Thạnh, Tân Phú, Hồ Chí Minh 70000, Vietnam. 
 
-Contents
---------
+Phone: 0301448712. 
 
-.. toctree::
+Email: author@xo88.wtf. 
 
-   usage
-   api
+Website: https://xo88.wtf/tac-gia/ceo-thuy-kieu/
+
+#xo88 #trangchuxo88 #dangkyxo88 #nhacaixo88 #linkxo88
